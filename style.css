@@ -10586,6 +10586,9 @@ label,
 .hero-big {
   height: 70vh;
 }
+.hero-small {
+  height: 40vh;
+}
 
 .small-image {
   height: 50px;
@@ -10595,3 +10598,4 @@ label,
 .nowrap{
   white-space: nowrap;
 }
+
